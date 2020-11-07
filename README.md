@@ -7,7 +7,7 @@ Hurricanes  follow  a  generalized  life  cycle  based  on  wind  speed(wind-spe
 
 ## Dimenasionality reduction on hurricane trejectory prediction
 
-Principal  Component  Analysis  (PCA)  is  an  unsupervised,  non-parametric  statisticaltechnique primarily used for dimentionality reduction in machine learning.High dimen-tionality means that the dataset has a large number of features.  The primary problemassociated with high-dimensionality in the machine learning field is computation com-plexity.  Also dimentionality reduction helps in proper data visualisation.  In our caseprediction is the time sensitive.  As quick as possible knowing the trajectories of the hur-ricane can save many precious lives.  So for getting the quick response of the hurricanewe used PCA
+Principal  Component  Analysis  (PCA)  is  an  unsupervised,  non-parametric  statisticaltechnique primarily used for dimentionality reduction in machine learning.High dimen-tionality means that the dataset has a large number of features.  The primary problemassociated with high-dimensionality in the machine learning field is computation com-plexity.  Also dimentionality reduction helps in proper data visualisation.  In our caseprediction is the time sensitive.  As quick as possible knowing the trajectories of the hur-ricane can save many precious lives.  So for getting the quick response of the hurricane we used PCA.
 
 
 ## Reference
