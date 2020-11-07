@@ -14,3 +14,5 @@ Principal  Component  Analysis  (PCA)  is  an  unsupervised,  non-parametric  st
 1. B. I. Miller, "Characteristics of hurricanes: Analyses and calculations made from measurements by aircraft result in a fairly complete description," Science, vol. 157, no. 3795, pp. 1389{1399, 1967.
 
 2. dataset: https://www.nhc.noaa.gov/
+
+3. S. Alemany, J. Beltran, A. Perez, and S. Ganzfried, “Predicting hurricane trajectories using a recurrentneural network,”Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, 02 2018.
