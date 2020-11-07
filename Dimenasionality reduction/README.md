@@ -8,4 +8,3 @@
 
 - If eigen values are non ordered then graph of captured variance is in random in natureso if we pick first 8 principle component then captured variance is also random in natureand result in that we may loose the data and recontruction will be not proper and thatalso affect the mean square error and also we may get very high mean square error.
 
--
