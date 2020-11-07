@@ -1,1 +1,1 @@
-# Hurricane-Trajectories-Prediction
+# Hurricane Trajectories Prediction
